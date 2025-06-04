@@ -1,6 +1,9 @@
 # NextJS Templates - Landing Page Practice Project
 <img width="185" alt="Ảnh màn hình 2025-05-23 lúc 22 27 34" src="https://github.com/user-attachments/assets/5e9bd724-2c30-41a3-bcde-55236e6e25d6" />
 
+<img width="1470" alt="Ảnh màn hình 2025-06-04 lúc 15 50 51" src="https://github.com/user-attachments/assets/0b13f323-73e7-42bb-a872-3cd29ad23df3" />
+
+
 A collection of landing page templates built for practicing HTML, CSS, Tailwind CSS, and JavaScript.
 ## 🎯 Project Purpose
 This project is designed for:
